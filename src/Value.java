@@ -32,4 +32,7 @@ public class Value {
     public void addPoint(){
         this.points++;
     }
+    public String getCategory(){
+        return category;
+    }
 }
